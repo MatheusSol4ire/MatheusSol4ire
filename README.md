@@ -29,9 +29,9 @@ Dashboard de rentabilidade em Power BI — modelagem, medidas em DAX e correçã
 Cruzamento de bases sem padrão — o mesmo projeto aparecia com três formatos de código e os nomes não batiam; montei chave composta e comparação aproximada, com aba de auditoria pra deixar rastreável
 Projeção de fechamento — o resultado mais útil não foi apontar quem já estourou o orçamento, e sim quem ainda está dentro mas a programação futura empurra pro risco
 Automações em Power Automate e Python para captura de e-mails e tratamento de planilhas
-📚 Estudando e pra onde vou
+📚 
 
-Construindo base sem pular etapa: Python, estruturas de dados, estatística e engenharia de software. O caminho é engenharia e análise de dados — sair do relatório pronto e ir pra estrutura que sustenta ele.
+Construindo base sem pular etapa: Python, estruturas de dados, estatística e engenharia de software. O caminho é engenharia e análise de dados - sair do relatório pronto e ir pra estrutura que sustenta ele.
 
 O que eu levo da enfermagem: dado nenhum existe sozinho. Sempre tem alguém do outro lado que precisa decidir com base nele.
 
